@@ -1,0 +1,6 @@
+.padding-small{
+  @include padding(2em null 2em null);
+}
+.margin-small{
+  @include margin(2em null 2em null);
+}
